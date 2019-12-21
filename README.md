@@ -11,3 +11,6 @@
 #### Laravel
 Pour concenvoir ce site, l'équipe de développement a fait le choix du framework **laravel** [laravel website]: https://www.laravel.com/ "laravel.com"  dans sa version **6**. C'est aussi lui qui fournira le routeur a tout le site.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODA3MzU5MDk3XX0=
+-->
