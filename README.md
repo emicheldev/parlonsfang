@@ -12,6 +12,20 @@
 Pour concenvoir ce site, l'équipe de développement a fait le choix du framework **laravel** [laravel website]: https://www.laravel.com/ "laravel.com"  dans sa version **6**. C'est aussi lui qui fournira le routeur a tout le site.
 
 
+## Contributing 
+
+1.  Fork it!
+2.  Create your feature branch:  `git checkout -b my-new-feature`
+3.  Commit your changes:  `git commit -am 'Add some feature'`
+4.  Push to the branch:  `git push origin my-new-feature`
+5.  Submit a pull request :D
+
+## [](https://github.com/mbj36/vue-socialmedia-share#author)Author
+
+©  [Mohit Bajoria](https://mbj36.xyz/)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2NTk3MzUxLDgwNzM1OTA5N119
+eyJoaXN0b3J5IjpbLTQzNzM4NTIyNCw1MTY1OTczNTEsODA3Mz
+U5MDk3XX0=
 -->
