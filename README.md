@@ -16,7 +16,7 @@ Pour concenvoir ce site, l'équipe de développement a fait le choix du framewor
 
 1.  Fork le projet !
 2.  Créez votre branche de fonctionnalité :  `git checkout -b my-new-feature`
-3.  Commit your changes:  `git commit -am 'Add some feature'`
+3. Faites un commit de vos modifications:  `git commit -am 'Add some feature'`
 4.  Push to the branch:  `git push origin my-new-feature`
 5.  Submit a pull request :D
 
@@ -26,6 +26,6 @@ Pour concenvoir ce site, l'équipe de développement a fait le choix du framewor
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1MDQ2OTgzLC0xODc3MjIwMDE5LDUxNj
-U5NzM1MSw4MDczNTkwOTddfQ==
+eyJoaXN0b3J5IjpbLTE1NDQ3OTA1MTgsLTE4NzcyMjAwMTksNT
+E2NTk3MzUxLDgwNzM1OTA5N119
 -->
