@@ -20,12 +20,12 @@ Pour concenvoir ce site, l'équipe de développement a fait le choix du framewor
 4.  Push to the branch:  `git push origin my-new-feature`
 5.  Submit a pull request :D
 
-## [](https://github.com/mbj36/vue-socialmedia-share#author)Auteur
+## [](https://github.com/emicheldev) Auteur
 
 ©  [e.Michel](https://emichel.dev/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTgwODMyNywtMTg3NzIyMDAxOSw1MT
+eyJoaXN0b3J5IjpbLTc3MDkyODU1NiwtMTg3NzIyMDAxOSw1MT
 Y1OTczNTEsODA3MzU5MDk3XX0=
 -->
