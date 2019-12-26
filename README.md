@@ -12,7 +12,7 @@
 Pour concenvoir ce site, l'équipe de développement a fait le choix du framework **laravel** [laravel website]: https://www.laravel.com/ "laravel.com"  dans sa version **6**. C'est aussi lui qui fournira le routeur a tout le site.
 
 
-## Contributing 
+## Guide de Contribution
 
 1.  Fork it!
 2.  Create your feature branch:  `git checkout -b my-new-feature`
@@ -26,6 +26,6 @@ Pour concenvoir ce site, l'équipe de développement a fait le choix du framewor
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzM4NTIyNCw1MTY1OTczNTEsODA3Mz
-U5MDk3XX0=
+eyJoaXN0b3J5IjpbLTE4NzcyMjAwMTksNTE2NTk3MzUxLDgwNz
+M1OTA5N119
 -->
