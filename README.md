@@ -1,6 +1,6 @@
 # Parlons Fang
 
-> Parlons fang est un site des cours en langue Fang
+> Parlons fang est un site des cours en langue Fang.
 
 ## Le site
 
@@ -26,6 +26,6 @@ Pour concenvoir ce site, l'équipe de développement a fait le choix du framewor
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4MDc0ODg5LC0xODc3MjIwMDE5LDUxNj
-U5NzM1MSw4MDczNTkwOTddfQ==
+eyJoaXN0b3J5IjpbLTExNDg2NDIyMjksNTI4MDc0ODg5LC0xOD
+c3MjIwMDE5LDUxNjU5NzM1MSw4MDczNTkwOTddfQ==
 -->
