@@ -26,9 +26,6 @@ Pour concenvoir ce site, l'équipe de développement a fait le choix du framewor
 
 
 
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJvWExRdTAxaVhwVEpIdlRKIjp7In
 N0YXJ0IjoxMjMsImVuZCI6MzAxLCJ0ZXh0IjoiPiBsJ2Vzc2Vu
@@ -42,7 +39,7 @@ LjQiLCJjcmVhdGVkIjoxNTc4NDg2NjcwMTE1fSwiazZ6bmRvbT
 RWM1FCRmFINiI6eyJkaXNjdXNzaW9uSWQiOiJvWExRdTAxaVhw
 VEpIdlRKIiwic3ViIjoiZ286MTEyNjI3NjI0MTk3NDMyMDI0OT
 Y2IiwidGV4dCI6IkJpZW4gcmXDp3UiLCJjcmVhdGVkIjoxNTc4
-NDg2Njg5NjAxfX0sImhpc3RvcnkiOlstNDc5NjM3Njg3LC0xMT
-Q4NjQyMjI5LDUyODA3NDg4OSwtMTg3NzIyMDAxOSw1MTY1OTcz
-NTEsODA3MzU5MDk3XX0=
+NDg2Njg5NjAxfX0sImhpc3RvcnkiOls5MDQ1MjE4NjYsLTExND
+g2NDIyMjksNTI4MDc0ODg5LC0xODc3MjIwMDE5LDUxNjU5NzM1
+MSw4MDczNTkwOTddfQ==
 -->
