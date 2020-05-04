@@ -420,6 +420,7 @@
                     "email": "jakub.onderka@gmail.com"
                 }
             ],
+            "abandoned": "php-parallel-lint/php-console-color",
             "time": "2018-09-29T17:23:10+00:00"
         },
         {
@@ -466,6 +467,7 @@
                 }
             ],
             "description": "Highlight PHP code in terminal",
+            "abandoned": "php-parallel-lint/php-console-highlighter",
             "time": "2018-09-29T18:48:56+00:00"
         },
         {
@@ -763,25 +765,25 @@
         },
         {
             "name": "mcamara/laravel-localization",
-            "version": "1.4.7",
+            "version": "1.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mcamara/laravel-localization.git",
-                "reference": "1497c94e92f7b211bd9ea090ab627dac36a75a88"
+                "reference": "13a51715f8e066b0bfb637fd9065d7496c3579ec"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mcamara/laravel-localization/zipball/1497c94e92f7b211bd9ea090ab627dac36a75a88",
-                "reference": "1497c94e92f7b211bd9ea090ab627dac36a75a88",
+                "url": "https://api.github.com/repos/mcamara/laravel-localization/zipball/13a51715f8e066b0bfb637fd9065d7496c3579ec",
+                "reference": "13a51715f8e066b0bfb637fd9065d7496c3579ec",
                 "shasum": ""
             },
             "require": {
-                "laravel/framework": "~5.2.0||~5.3.0||~5.4.0||~5.5.0||~5.6.0||~5.7.0||~5.8.0||^6.0",
+                "laravel/framework": "~5.2.0||~5.3.0||~5.4.0||~5.5.0||~5.6.0||~5.7.0||~5.8.0||^6.0||^7.0",
                 "php": ">=7.1.0"
             },
             "require-dev": {
                 "orchestra/testbench-browser-kit": "~3.4|~3.8|~4.0",
-                "phpunit/phpunit": "6.0.*|8.0.*"
+                "phpunit/phpunit": "6.0.*|^8.0"
             },
             "suggest": {
                 "ext-intl": "*"
@@ -821,7 +823,7 @@
                 "localization",
                 "php"
             ],
-            "time": "2019-11-04T23:33:01+00:00"
+            "time": "2020-03-05T15:19:05+00:00"
         },
         {
             "name": "monolog/monolog",
